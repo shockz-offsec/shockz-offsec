@@ -7,6 +7,7 @@
 - My linkedin profile: ~~Soon ~
 - How to contact me: jmlgomez73@gmail.com
 
+![Profile views](https://gpvc.arturio.dev/jmlgomez73)
 
 ## Fav Tech
 
