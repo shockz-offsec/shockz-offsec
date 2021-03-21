@@ -26,7 +26,7 @@
   
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
 
 <!--START_SECTION:waka-->
 ```text
