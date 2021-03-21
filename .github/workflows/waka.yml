@@ -14,8 +14,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_TITLE: true
+          SHOW_PROFILE_VIEWS: True
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
