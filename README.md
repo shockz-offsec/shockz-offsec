@@ -7,8 +7,6 @@
 - My linkedin profile: ~~Soon ~
 - How to contact me: jmlgomez73@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/jmlgomez73)
-
 ## Fav Tech
 
 <p>
@@ -25,6 +23,10 @@
   <img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
   
 </p>
+
+#
+
+![Profile views](https://gpvc.arturio.dev/jmlgomez73)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
 
