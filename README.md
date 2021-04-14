@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
 CSS          4 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.59 % 
 HTML         2 hrs 46 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.10 % 
