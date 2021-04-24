@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
 Python       34 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.33 % 
 HTML         21 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.59 % 
