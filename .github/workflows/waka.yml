@@ -18,5 +18,5 @@ jobs:
           SHOW_PROFILE_VIEWS: true
           SHOW_LINES_OF_CODE: true
           SHOW_LANGUAGE: true
-          SHOW_LANGUAGE_PER_REPO: true
+          #SHOW_LANGUAGE_PER_REPO: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
