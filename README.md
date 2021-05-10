@@ -1,6 +1,11 @@
-### Hi I'm Jorge 👋
+<div align="center">
+  <h1> Hi I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-- I'm a computer engineer.
+<div align="center">
+<h3> Jorge | 💻 Software Engineer | 🌏 Ourense, GZ </h3> 
+</div>
+
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
 - Actually learning Etical Hacking.
@@ -8,6 +13,10 @@
 - How to contact me: jmlgomez73@gmail.com
 
 ## Fav Tech
+<div align="center">
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+</div>
+
 
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
