@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 May, 2021 - 09 May, 2021
+Week: 03 May, 2021 - 10 May, 2021
 
 HTML         13 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.24 % 
 Python       8 hrs 50 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.02 % 
