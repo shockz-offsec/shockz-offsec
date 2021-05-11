@@ -4,7 +4,12 @@
 
 <div align="center">
 <h3> Jorge | 💻 Software Engineer | 🌏 Ourense, GZ </h3> 
+  <h4>My Hack The Box Profile</h4>
+  <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/491927">
+    <img src="http://www.hackthebox.eu/badge/image/491927" alt="Hack The Box Profile"></img>
+  </a>
 </div>
+</br>
 
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
