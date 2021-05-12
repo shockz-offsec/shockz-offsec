@@ -13,7 +13,7 @@
 
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
-- Actually learning Etical Hacking.
+- Actually learning Ethical Hacking.
 - My linkedin profile: ~~Soon ~~
 - How to contact me: jmlgomez73@gmail.com
 
