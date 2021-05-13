@@ -15,7 +15,6 @@
 - I'm looking to collaborate on any project.
 - Actually learning Ethical Hacking.
 - My linkedin profile: ~~Soon ~~
-- How to contact me: jmlgomez73@gmail.com
 
 ## Fav Tech
 <div align="center">
