@@ -45,7 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2021 - 19 May, 2021
+Week: 13 May, 2021 - 20 May, 2021
 
 Bash       3 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.53 % 
 Python     9 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.16 % 
