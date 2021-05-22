@@ -38,10 +38,14 @@
 </p>
 
 #
-
 ![Profile views](https://gpvc.arturio.dev/jmlgomez73)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+</div>
+
+#
+
 
 <!--START_SECTION:waka-->
 ```text
