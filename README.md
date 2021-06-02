@@ -49,7 +49,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2021 - 31 May, 2021
+Week: 25 May, 2021 - 01 June, 2021
 
 Markdown   2 hrs 29 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀   75.03 % 
 Bash       42 mins         ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.56 % 
