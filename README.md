@@ -15,6 +15,7 @@
 - I'm looking to collaborate on any project.
 - Actually learning Ethical Hacking.
 - My linkedin profile: ~~Soon ~~
+- Certificates: EJPT
 
 ## Fav Tech
 <div align="center">
