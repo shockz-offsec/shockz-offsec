@@ -49,7 +49,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
 Bash    8 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.85 % 
 Other   35 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.18 % 
