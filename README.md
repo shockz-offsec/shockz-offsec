@@ -14,7 +14,7 @@
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
 - Currently preparing the OSCP.
-- Certificates: EJPT
+- Certificates: eJPT
 
 ## Fav Tech
 <div align="center">
