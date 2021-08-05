@@ -35,7 +35,7 @@
   <img width="15%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="7%"  src="https://user-images.githubusercontent.com/67438760/127702515-1acb4e73-f6f7-4a3c-b79f-3b7e73e177da.png" />
+  <img width="7.5%"  src="https://user-images.githubusercontent.com/67438760/127702515-1acb4e73-f6f7-4a3c-b79f-3b7e73e177da.png" />
 
   
 </p>
