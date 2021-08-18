@@ -4,10 +4,6 @@
 
 <div align="center">
 <h3> 💻 Software Engineer | 🌏 Ourense, GZ </h3> 
-    <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/491927">
-  </a>
-<img src="http://www.hackthebox.eu/badge/image/491927" alt="Hack The Box Profile"></img>
 </div>
 </br>
 
