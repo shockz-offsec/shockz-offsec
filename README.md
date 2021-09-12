@@ -41,6 +41,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+  
+  #
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmlgomez73&layout=compact" />
+  
+  #
+  
+   <img src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&theme=radical&custom_title=jmglomez73's Github Stats&include_all_commits=true" />
 </div>
 
 #
