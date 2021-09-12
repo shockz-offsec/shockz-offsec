@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 💻 Software Engineer | Self-taught Ethical Hacker | 🌏 Ourense, GZ </h3> 
+<h3> 💻 Software Engineer | Self-taught Ethical Hacker | HTB & THM Player | 🌏 Ourense, GZ </h3> 
 </div>
 </br>
 
