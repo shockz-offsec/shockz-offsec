@@ -43,8 +43,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/jmlgomez73)
  <br/>
-    <a href=""><img alt="Dedinfosec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href=""><img alt="Dedinfosec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="Shockz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img alt="Shockz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 #
@@ -55,7 +55,7 @@
 
 #
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Dedinfosec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!--START_SECTION:waka-->
 ```text
