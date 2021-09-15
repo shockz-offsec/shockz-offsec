@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif" height="175px"/></a>
+
+
 <div align="center">
   <h1> Hi I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
@@ -9,6 +12,7 @@
 
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
+- My personal website is available at jmlgomez73.github.io
 - Currently working on OSCP.
 - Certificates: eJPT
 
@@ -39,16 +43,25 @@
 #
 ![Profile views](https://gpvc.arturio.dev/jmlgomez73)
 
+
+
+
+## 📊 My Github Stats
+
+ <br/>
+    <a href=""><img alt="Dedinfosec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img alt="Dedinfosec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+#
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
-  
-  #
-  
-   <img src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&theme=radical&custom_title=jmglomez73's Github Stats&include_all_commits=true" />
+  <img title="Shockz's streak" alt="Shockz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jmlgomez73&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
 #
 
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Dedinfosec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!--START_SECTION:waka-->
 ```text
