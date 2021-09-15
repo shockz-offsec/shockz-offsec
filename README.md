@@ -1,5 +1,7 @@
 <img width="100%" height="auto" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif" height="175px"/>
 
+![Alt Text](https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif)
+
 
 <div align="center">
   <h1> Hi I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
