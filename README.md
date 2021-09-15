@@ -39,14 +39,9 @@
   
 </p>
 
-#
-![Profile views](https://gpvc.arturio.dev/jmlgomez73)
-
-
-
-
 ## 📊 My Github Stats
 
+![Profile views](https://gpvc.arturio.dev/jmlgomez73)
  <br/>
     <a href=""><img alt="Dedinfosec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href=""><img alt="Dedinfosec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
