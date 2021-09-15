@@ -43,7 +43,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/jmlgomez73)
  <br/>
-    <a href=""><img alt="Shockz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/jmlgomez73"><img alt="Shockz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href=""><img alt="Shockz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
