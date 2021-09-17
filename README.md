@@ -11,7 +11,7 @@
 
 - Always researching new technologies that I find interesting
 - I'm looking to collaborate on any project.
-- My personal website is available at jmlgomez73.github.io
+- My personal website is available at [jmlgomez73.github.io](jmlgomez73.github.io)
 - Currently working on OSCP.
 - Certificates: eJPT
 
