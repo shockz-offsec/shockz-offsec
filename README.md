@@ -66,6 +66,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 October, 2021 - 26 October, 2021
+
+Markdown   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
