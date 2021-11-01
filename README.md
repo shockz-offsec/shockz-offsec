@@ -8,7 +8,7 @@
 <h3> 💻 Software Engineer | Self-taught Ethical Hacker | HTB & THM Player | 🌏 Ourense, GZ </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/616242">
-<img src="http://www.hackthebox.eu/badge/image/491927" alt="Hack The Box Profile"></a>
+<img src="http://www.hackthebox.eu/badge/image/616242" alt="Hack The Box Profile"></a>
        <h4>My Try Hack Me Profile</h4>
   <a title="Try Hack Me Profile" href="https://tryhackme.com/p/Shockz">
  <img src="https://tryhackme-badges.s3.amazonaws.com/Shockz.png" alt="TryHackMe"></a>
