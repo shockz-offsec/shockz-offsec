@@ -11,7 +11,7 @@
 <img src="http://www.hackthebox.eu/badge/image/491927" alt="Hack The Box Profile"></a>
        <h4>My Try Hack Me Profile</h4>
   <a title="Try Hack Me Profile" href="https://tryhackme.com/p/Shockz">
- <img src="https://user-images.githubusercontent.com/67438760/134828657-e3454bdc-8c84-42a7-bc52-974d873021e8.png" alt="TryHackMe"></a>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Shockz.png" alt="TryHackMe"></a>
 
 </div>
 </br>
