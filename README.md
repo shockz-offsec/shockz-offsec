@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h3> 💻 Software Engineer | Self-taught Ethical Hacker | HTB & THM Player | 🌏 Ourense, GZ </h3> 
+<h3> 💻 Vulnerability Analyst & Developer | Ethical Hacker | Software Engineer | HTB & THM Player | 🌏 Ourense, GZ </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/616242">
 <img src="http://www.hackthebox.eu/badge/image/616242" alt="Hack The Box Profile"></a>
