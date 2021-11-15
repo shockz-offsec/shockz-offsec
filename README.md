@@ -68,7 +68,6 @@
 ```text
 Week: 08 November, 2021 - 14 November, 2021
 
-HTML    1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.34 % 
-CSS     53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.30 % 
+
 ```
 <!--END_SECTION:waka-->
