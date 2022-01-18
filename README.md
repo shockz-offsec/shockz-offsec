@@ -66,8 +66,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
