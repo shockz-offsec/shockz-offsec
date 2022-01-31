@@ -68,6 +68,6 @@
 ```text
 Week: 24 January, 2022 - 30 January, 2022
 
-
+PHP   51 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
