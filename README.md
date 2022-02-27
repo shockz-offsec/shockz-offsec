@@ -65,7 +65,9 @@
 <a href="https://github.com/jmlgomez73"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
