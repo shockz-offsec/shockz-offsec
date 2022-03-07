@@ -20,7 +20,7 @@
 - I'm looking to collaborate on any project.
 - My personal website is available at [jmlgomez73.github.io](https://jmlgomez73.github.io), there you'll find all my CTF'S Write-Ups
 - Currently working on OSCP.
-- Certificates: eCPPTv2, eJPT
+- Certificates: eWPTXv2, eCPPTv2, eJPT
 
 ## Fav Tech
 <div align="center">
