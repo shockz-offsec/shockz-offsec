@@ -18,8 +18,7 @@
 
 - Always learning new technologies that I find interesting
 - I'm looking to collaborate on any project.
-- My personal website is available at [jmlgomez73.github.io](https://jmlgomez73.github.io), there you'll find all my CTF'S Write-Ups
-- Currently working on OSCP.
+- My personal website is available at [jmlgomez73.github.io](https://jmlgomez73.github.io), there you'll find all my CTF'S Write-Ups and posts.
 - Certificates: eWPTXv2, eCPPTv2, eJPT
 
 ## Fav Tech
