@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="fsociety.gif" height="175px"/>
 
 <div align="center">
-  <h1> Hi I'm Jorge <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1> Hi I'm Jorge</h1>
 </div>
 
 <div align="center">
