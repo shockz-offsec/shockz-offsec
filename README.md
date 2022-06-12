@@ -66,7 +66,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 June 2022 - To: 12 June 2022
+
+Python     47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   89.76 %
+Markdown   5 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.24 %
 ```
 
 <!--END_SECTION:waka-->
