@@ -20,6 +20,9 @@
 - I'm looking to collaborate on any project.
 - My personal website is available at [jmlgomez73.github.io](https://jmlgomez73.github.io), there you'll find all my CTF'S Write-Ups and posts.
 - Certificates: eWPTXv2, eCPPTv2, eJPT
+- Vulnerability Management Certifications: 
+  *Qualys*: Vulnerability Management, Vulnerability Management Detection & Response, Cybersecurity Asset Management, Patch Management, Scanning Strategies and Best     Practices, Reporting Strategies and Best Practices, Web Application Scanning, Qualys API Fundamentals, Cloud Agent.
+  *Rapid7*: InsightVM Certified Administrator, InsightIDR Certified Specialist, InsightAppSec Certified Specialist.
 
 ## Fav Tech
 <div align="center">
