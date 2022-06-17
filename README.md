@@ -1,10 +1,11 @@
 <img width="100%" height="auto" src="fsociety.gif" height="175px"/>
 
 <div align="center">
-  <h1> Hi I'm Jorge</h1>
+  <h1>root@github# whoami </h1>
 </div>
 
 <div align="center">
+  <h2>Hi, I’m Jorge aka Shockz</h2>
 <h3> 💻 Offensive Security Engineer | Ethical Hacker | HTB & THM Player | 🌏 Ourense, GZ </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/616242">
@@ -16,58 +17,60 @@
 </div>
 </br>
 
-- Always learning new technologies that I find interesting
-- I'm looking to collaborate on any project.
-- My personal website is available at [jmlgomez73.github.io](https://jmlgomez73.github.io), there you'll find all my CTF'S Write-Ups and posts.
+- Passionate about offensive cybersecurity and SecDevOps enthusiast
+- Check out [my website](https://jmlgomez73.github.io)
 - Hacking Certificates: eWPTXv2, eCPPTv2, eJPT
 - Vulnerability Management Certifications: 
   
-  *Qualys*: Vulnerability Management, Vulnerability Management Detection & Response, Cybersecurity Asset Management, Patch Management, Scanning Strategies and Best     Practices, Reporting Strategies and Best Practices, Web Application Scanning, Qualys API Fundamentals, Cloud Agent.
+  - *Qualys*: Vulnerability Management, Vulnerability Management Detection & Response, Cybersecurity Asset Management, Patch Management, Scanning Strategies and Best     Practices, Reporting Strategies and Best Practices, Web Application Scanning, Qualys API Fundamentals, Cloud Agent.
   
-  *Rapid7*: InsightVM Certified Administrator, InsightIDR Certified Specialist, InsightAppSec Certified Specialist.
+  - *Rapid7*: InsightVM Certified Administrator, InsightIDR Certified Specialist, InsightAppSec Certified Specialist.
 
-## Fav Tech
+## Languages and Technologies
 <div align="center">
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 </div>
 
-
-<p>
-  <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="7.5%"  src="https://user-images.githubusercontent.com/67438760/127702515-1acb4e73-f6f7-4a3c-b79f-3b7e73e177da.png" />
-
-  
+<p align="center">
+      <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
+      <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kalilinux" alt="kalilinux" height="50px"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
+      <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
+      <img src="https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell" alt="powershell" height="50px"/>
+      <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
+      <img src="https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker" alt="docker" height="50px"/>
+      <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
+      <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java" alt="java" height="50px"/>
+      <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
+      <img src="https://img.shields.io/badge/-Cloud-181717?style=flat-square&logo=ubuntu" alt="cloud" height="50px"/>
+      <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
+      <img src="https://img.shields.io/badge/-Raspberry%20Pi-181717?style=flat-square&logo=raspberrypi" alt="raspberrypi" height="50px"/>
+      <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
+      <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
+      <img src="https://img.shields.io/badge/-Debian-181717?style=flat-square&logo=debian" alt="debian" height="50px"/>
 </p>
 
+
+
 ## 📊 My Github Stats
-
-![Profile views](https://gpvc.arturio.dev/jmlgomez73)
- <br/>
-    <a href="https://github.com/jmlgomez73"><img alt="Shockz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jmlgomez73"><img alt="Shockz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-#
-
-<div align="center">
-  <img title="Shockz's streak" alt="Shockz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jmlgomez73&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+ 
+<div align="center" href="https://github.com/jmlgomez73">
+  <a href="https://github.com/jmlgomez73">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  </a>
+  <a href="https://github.com/jmlgomez73">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Shockz's GitHub Stats" />
+  </a>
+  <a href="https://github.com/jmlgomez73">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmlgomez73&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Shockz's GitHub Stats" height="280px"/>
+  </a>
 </div>
 
 #
-
-<a href="https://github.com/jmlgomez73"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<div align="center">
+  <a href="https://github.com/jmlgomez73"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
+  
 <!--START_SECTION:waka-->
 
 ```text
