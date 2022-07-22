@@ -19,7 +19,7 @@
 
 - Passionate about offensive cybersecurity and SecDevOps enthusiast
 - Check out [my website](https://jmlgomez73.github.io)
-- Hacking Certificates: eWPTXv2, eCPPTv2, eJPT
+- Hacking Certificates: CRTP, eWPTXv2, eCPPTv2, eJPT
 - Vulnerability Management Certifications: 
   
   - *Qualys*: Vulnerability Management, Vulnerability Management Detection & Response, Cybersecurity Asset Management, Patch Management, Scanning Strategies and Best     Practices, Reporting Strategies and Best Practices, Web Application Scanning, Qualys API Fundamentals, Cloud Agent.
