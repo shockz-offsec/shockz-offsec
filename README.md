@@ -74,11 +74,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-Python       1 hr 55 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.83 %
-JavaScript   1 hr 20 mins    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.76 %
-Other        1 hr 10 mins    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.52 %
+JavaScript   1 hr 20 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.88 %
+Other        1 hr 8 mins     ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.68 %
 ```
 
 <!--END_SECTION:waka-->
