@@ -18,7 +18,7 @@
 </br>
 
 - Passionate about offensive cybersecurity and SecDevOps enthusiast
-- Check out [my website](https://jmlgomez73.github.io)
+- Check out [my website](https://shockz-offsec.github.io)
 - Hacking Certificates: OSCP, CRTP, eWPTXv2, eCPPTv2, eMAPT, eJPT
 - Vulnerability Management Certifications: 
   
@@ -54,21 +54,21 @@
 
 ## 📊 My Github Stats
  
-<div align="center" href="https://github.com/jmlgomez73">
-  <a href="https://github.com/jmlgomez73">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmlgomez73&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<div align="center" href="https://github.com/shockz-offsec">
+  <a href="https://github.com/shockz-offsec">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shockz-offsec&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
-  <a href="https://github.com/jmlgomez73">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Shockz's GitHub Stats" />
+  <a href="https://github.com/shockz-offsec">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shockz-offsec&langs_count=108&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Shockz's GitHub Stats" />
   </a>
-  <a href="https://github.com/jmlgomez73">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmlgomez73&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Shockz's GitHub Stats" height="280px"/>
+  <a href="https://github.com/shockz-offsec">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shockz-offsec&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Shockz's GitHub Stats" height="280px"/>
   </a>
 </div>
 
 #
 <div align="center">
-  <a href="https://github.com/jmlgomez73"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmlgomez73&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/shockz-offsec"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shockz-offsec&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
   
 <!--START_SECTION:waka-->
