@@ -74,9 +74,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Other        2 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.29 %
+Other        3 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.25 %
 ```
 
 <!--END_SECTION:waka-->
