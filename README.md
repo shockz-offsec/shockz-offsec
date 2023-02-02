@@ -74,7 +74,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 January 2023 - To: 02 February 2023
+
+Bash   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
