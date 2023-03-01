@@ -68,9 +68,9 @@
 
 #
 <div align="center">
-  <a href="https://github.com/shockz-offsec"><img alt="Shockz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shockz-offsec&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/shockz-offsec"><img alt="Shockz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shockz-offsec&bg_color=000000&color=ff0095&line=ff00f7&point=ffffff&area=true&hide_border=true" /></a>
 </div>
-  
+
 <!--START_SECTION:waka-->
 
 ```text
