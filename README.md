@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Hi, I’m Jorge aka Shockz</h2>
-<h3> 💻 Offensive Security Engineer | Developer | Ethical Hacker | HTB & THM Player | 🌏 Ourense, GZ </h3> 
+<h3> 💻 Offensive Security Engineer | Developer | Ethical Hacker | HTB & THM Player </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/616242">
 <img src="http://www.hackthebox.eu/badge/image/616242" alt="Hack The Box Profile"></a>
