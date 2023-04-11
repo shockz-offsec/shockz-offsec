@@ -26,7 +26,11 @@
   
   - *Rapid7*: InsightVM Certified Administrator, InsightIDR Certified Specialist, InsightAppSec Certified Specialist.
 
-## Languages and Technologies
+
+<div align="center">
+  <h2>Languages and Technologies</h2>
+</div>
+
 <div align="center">
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 </div>
@@ -42,17 +46,17 @@
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
       <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java" alt="java" height="50px"/>
       <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
-      <img src="https://img.shields.io/badge/-Cloud-181717?style=flat-square&logo=ubuntu" alt="cloud" height="50px"/>
-      <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
+      <img src="https://img.shields.io/badge/-Azure-181717?style=flat-square&logo=microsoft-azure" alt="aws" height="50px"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-181717?style=flat-square&logo=raspberrypi" alt="raspberrypi" height="50px"/>
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
       <img src="https://img.shields.io/badge/-Debian-181717?style=flat-square&logo=debian" alt="debian" height="50px"/>
+      <img src="https://img.shields.io/badge/-Golang-181717?style=flat-square&logo=go" alt="debian" height="50px"/>
 </p>
 
-
-
-## 📊 My Github Stats
+<div align="center">
+  <h2>📊 My Github Stats</h2>
+</div>
  
 <div align="center" href="https://github.com/shockz-offsec">
   <a href="https://github.com/shockz-offsec">
