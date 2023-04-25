@@ -19,7 +19,8 @@
 
 - Passionate about offensive cybersecurity, Cloud and SecDevOps enthusiast
 - Check out [my website](https://shockz.dev)
-- Hacking Certificates: CRTO, OSCP, CRTP, BSCP, eWPTXv2, eCPPTv2, eMAPT, eJPT
+- Hacking Certifications: CRTO, OSCP, CRTP, BSCP, eWPTXv2, eCPPTv2, eMAPT, eJPT
+- Cloud Certifications: AWS CCP.
 - Vulnerability Management Certifications: 
   
   - *Qualys*: Vulnerability Management, Vulnerability Management Detection & Response, Cybersecurity Asset Management, Patch Management, Scanning Strategies and Best     Practices, Reporting Strategies and Best Practices, Web Application Scanning, Qualys API Fundamentals, Cloud Agent.
