@@ -18,7 +18,7 @@
 </br>
 
 - Passionate about offensive cybersecurity, Cloud and SecDevOps enthusiast
-- Check out [my website](https://shockz-offsec.github.io)
+- Check out [my website](https://shockz.dev)
 - Hacking Certificates: CRTO, OSCP, CRTP, BSCP, eWPTXv2, eCPPTv2, eMAPT, eJPT
 - Vulnerability Management Certifications: 
   
