@@ -79,9 +79,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 02 June 2023
+From: 27 May 2023 - To: 03 June 2023
 
-PowerShell   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Bash         0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.45 %
+PowerShell   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.55 %
 ```
 
 <!--END_SECTION:waka-->
