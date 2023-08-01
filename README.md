@@ -19,7 +19,7 @@
 
 - Passionate about offensive cybersecurity, Cloud and SecDevOps enthusiast
 - Check out [my website](https://shockz.dev)
-- Hacking Certifications: CRTO, OSCP, CRTP, BSCP, eWPTXv2, eCPPTv2, eMAPT, eJPT
+- Hacking Certifications: CRTO, OSCP, CRTP, BSCP, eWPTXv2, eCPPTv2, eMAPT, eJPT, CEH Master
 - Cloud Certifications: AWS CCP.
 - Vulnerability Management Certifications: 
   
